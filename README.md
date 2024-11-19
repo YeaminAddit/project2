@@ -1,1 +1,1 @@
-# project2
+This is my interactive p5.js project featuring a dynamic landscape. The sun changes color when the mouse is pressed, and a cloud follows the mouse cursor. I used variables to manage the sun's color and added comments to clarify the code
